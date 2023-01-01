@@ -35,8 +35,8 @@
 - **C**
   | __Taught in school__ |
   *IoT applications with Arduino and espressif ESP32, Creation of serial communication between µC and C# application*
-  - **HTML/CSS/JS**
-    *Basic knowledge and extensive use in graduation project*
+- **HTML/CSS/JS**
+  *Basic knowledge and extensive use in graduation project*
 
 # Projects
 
