@@ -2,7 +2,7 @@
 
 ## About me 
 
-- Located in Austria(some people would call my village a hillbilly)
+- Located in Austria(Welcome to being a hillbilly :D)
 - 20 years old
 - Currently completing my 9 months civilian service 
 - Interested in programming, modding and tech stuff
